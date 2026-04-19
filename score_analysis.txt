@@ -1,0 +1,90 @@
+Total results: 86
+
+Score    Category                  Title
+------------------------------------------------------------------------------------------
+0.490    Laptop Bags               Peak Design Everyday Backpack 20L
+0.488    Laptop Bags               SwissGear 3760 ScanSmart Laptop Backpack
+0.476    Laptop Bags               Knomo Beauchamp 15.6" Laptop Backpack
+0.473    Laptop Bags               Amazon Basics 17.3-Inch Laptop Bag
+0.471    Laptop Bags               Briggs & Riley @Work Medium Backpack
+0.464    Laptop Bags               Samsonite Classic Business Backpack
+0.463    Laptop Bags               Tumi Alpha Bravo Search Backpack
+0.457    Mechanical Keyboards      Akko 5075B Plus Wireless Keyboard
+0.454    Laptop Bags               Targus 15.6" Drifter Backpack
+0.450    Laptop Bags               Osprey Arcane Large Day Backpack
+0.447    Mechanical Keyboards      Logitech MX Mechanical Mini Wireless
+0.441    Desk Lamps                BenQ ScreenBar Halo Monitor Light
+0.441    Wireless Headphones       Sony WH-1000XM5 Noise Cancelling Headphones
+0.441    Coffee Makers             Breville Barista Express Espresso Machine
+0.435    Mechanical Keyboards      HHKB Professional Hybrid Type-S
+0.434    Desk Lamps                TaoTronics LED Desk Lamp with USB Charging
+0.432    Desk Lamps                VIVO LED Desk Lamp with Clamp
+0.430    Mechanical Keyboards      NuPhy Air75 V2 Wireless Keyboard
+0.430    Wireless Headphones       Jabra Evolve2 85 Professional Headset
+0.429    Mechanical Keyboards      Das Keyboard 4 Professional Cherry MX Blue
+0.429    Mechanical Keyboards      Ducky One 3 TKL Hot-Swap RGB
+0.428    Wireless Headphones       Bose QuietComfort 45 Bluetooth Headphones
+0.427    Mechanical Keyboards      Keychron Q1 Pro QMK Wireless Keyboard
+0.426    Desk Lamps                Dyson Lightcycle Morph Task Light
+0.426    Desk Lamps                Anker Eufy Lumos Smart Bulb White
+0.425    Coffee Makers             OXO Brew 9-Cup Coffee Maker
+0.425    Coffee Makers             De'Longhi Magnifica Evo Automatic Espresso
+0.422    Wireless Headphones       Apple AirPods Max Space Gray
+0.421    Smart Watches             Samsung Galaxy Watch6 Classic 47mm
+0.420    Coffee Makers             Cuisinart DCC-3200P1 PerfecTemp 14-Cup Coffee Make
+0.419    Smart Watches             Apple Watch Series 9 GPS 45mm
+0.419    Mechanical Keyboards      Razer BlackWidow V4 Pro Wireless
+0.418    Wireless Headphones       Audio-Technica ATH-M50xBT2 Wireless
+0.417    Wireless Headphones       Anker Soundcore Q45 Headphones
+0.416    Wireless Headphones       Beats Studio Pro Wireless Headphones
+0.416    Wireless Headphones       Sennheiser Momentum 4 Wireless
+0.415    Desk Lamps                Govee RGBIC LED Desk Lamp
+0.414    Desk Lamps                Elgato Key Light Air Professional LED Panel
+0.412    Coffee Makers             Fellow Stagg EKG Electric Kettle
+0.412    Wireless Headphones       JBL Tour One M2 Wireless
+0.412    Smart Watches             Fitbit Sense 2 Advanced Health Smartwatch
+0.411    Protein Supplements       Muscle Milk Genuine Protein Powder Chocolate
+0.411    Smart Watches             Garmin Fenix 7 Solar Multisport GPS Watch
+0.408    Coffee Makers             Technivorm Moccamaster KBGT Coffee Maker
+0.406    Coffee Makers             Nespresso Vertuo Next Coffee and Espresso Machine
+0.404    Protein Supplements       Transparent Labs 100% Grass-Fed Whey Isolate
+0.401    Smart Watches             Withings ScanWatch 2 Hybrid Smartwatch
+0.401    Smart Watches             Polar Vantage V3 Multisport GPS Watch
+0.401    Smart Watches             Google Pixel Watch 2
+0.400    Desk Lamps                Philips Hue White and Color Ambiance Go
+0.400    Yoga Mats                 Amazon Basics TPE Yoga Mat 6mm
+0.398    Yoga Mats                 Lululemon The Reversible Mat 5mm
+0.397    Coffee Makers             Ninja CE251 Programmable Coffee Maker
+0.396    Smart Watches             Amazfit GTR 4 Smart Watch
+0.392    Coffee Makers             Bonavita 8-Cup One-Touch Coffee Maker
+0.388    Running Shoes             New Balance Fresh Foam X 1080v13
+0.387    Coffee Makers             Keurig K-Supreme Plus SMART Coffee Maker
+0.387    Yoga Mats                 Gaiam Premium Printed Yoga Mat 5mm
+0.386    Yoga Mats                 Retrospec Solana Yoga Mat 1-inch Thick
+0.384    Protein Supplements       Cellucor C4 Ultimate Shred Pre-Workout
+0.383    Running Shoes             Adidas Ultraboost 23 Running Shoe
+0.381    Yoga Mats                 Liforme Original Yoga Mat
+0.381    Running Shoes             ASICS Gel-Kayano 30 Stability Shoe
+0.377    Running Shoes             On Cloudmonster 2 Running Shoe
+0.377    Protein Supplements       BSN SYNTHA-6 Ultra-Premium Protein Matrix
+0.377    Running Shoes             Mizuno Wave Rider 27
+0.376    Running Shoes             Nike Air Zoom Pegasus 40
+0.374    Protein Supplements       Orgain Organic Protein Plant Based Powder
+0.373    Running Shoes             Hoka Clifton 9 Road Running Shoe
+0.373    Skincare Serums           Neutrogena Rapid Wrinkle Repair Retinol Serum
+0.373    Protein Supplements       Optimum Nutrition Gold Standard 100% Whey Protein
+0.372    Yoga Mats                 Manduka PRO Yoga Mat 6mm
+0.372    Running Shoes             Brooks Ghost 15 Running Shoe
+0.372    Protein Supplements       Garden of Life Sport Organic Plant Protein
+0.370    Yoga Mats                 Cork Yoga Mat by Yoloha
+0.368    Protein Supplements       Dymatize ISO100 Hydrolyzed Whey Protein Isolate
+0.368    Skincare Serums           Paula's Choice 10% Niacinamide Booster
+0.368    Skincare Serums           Estee Lauder Advanced Night Repair Serum
+0.368    Yoga Mats                 Jade Harmony Professional Yoga Mat
+0.368    Skincare Serums           Drunk Elephant B-Hydra Intensive Hydration Serum
+0.366    Protein Supplements       Vega Sport Premium Vegan Protein Powder
+0.364    Skincare Serums           COSRX Advanced Snail 96 Mucin Power Essence
+0.358    Skincare Serums           The Ordinary Hyaluronic Acid 2% + B5
+0.356    Yoga Mats                 B Yoga B MAT Strong 6mm
+0.354    Yoga Mats                 Hugger Mugger Para Rubber Yoga Mat
+0.352    Skincare Serums           SkinCeuticals C E Ferulic Vitamin C Serum
